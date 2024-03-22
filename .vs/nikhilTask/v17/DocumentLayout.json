@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNet projects\\nikhilTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\views\\customers\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:views\\customers\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\views\\customers\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:views\\customers\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\services\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:services\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|d:\\dotnet projects\\nikhiltask\\services\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CD7AFD-8809-4BD5-8ECF-32E09EFC2835}|nikhilTask.csproj|solutionrelative:services\\ifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:11:30.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCustomer.cshtml",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\EditCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\EditCustomer.cshtml",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\EditCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customers\\EditCustomer.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAUwG0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T12:55:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:48:18.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFile.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\services\\IFile.cs",
+              "RelativeDocumentMoniker": "services\\IFile.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\services\\IFile.cs",
+              "RelativeToolTip": "services\\IFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:43:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\services\\FileService.cs",
+              "RelativeDocumentMoniker": "services\\FileService.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\services\\FileService.cs",
+              "RelativeToolTip": "services\\FileService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:24:17.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "services\\CustomerService.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\services\\CustomerService.cs",
+              "RelativeToolTip": "services\\CustomerService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAvwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:00:36.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T09:44:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\CreateCustomer.cshtml",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\CreateCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customers\\CreateCustomer.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T09:34:26.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAUwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T09:30:17.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "D:\\dotNet projects\\nikhilTask\\services\\ICustomer.cs",
+              "RelativeDocumentMoniker": "services\\ICustomer.cs",
+              "ToolTip": "D:\\dotNet projects\\nikhilTask\\services\\ICustomer.cs",
+              "RelativeToolTip": "services\\ICustomer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:12:55.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
